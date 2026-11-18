@@ -1,0 +1,5 @@
+Model,MAE,RMSE
+Naive (last week),53352,81172
+Seasonal naive (last year),53259,84760
+Random Forest,40137,66127
+XGBoost,39720,61661

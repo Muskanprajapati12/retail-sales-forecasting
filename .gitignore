@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*.db
+data/processed/*.sqlite
+models/*.pkl
+Thumbs.db
+.vscode/
