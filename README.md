@@ -41,7 +41,6 @@ Pick a store in the sidebar and see the actual vs forecast chart with MAE for ea
 
 ![Streamlit app - Store 1](images/streamlit_app.jpeg)
 ![Streamlit app - Store 14](images/streamlit_store14.jpeg)
-
 ## How to run
 ```powershell
 git clone https://github.com/Muskanprajapati12/retail-sales-forecasting.git
