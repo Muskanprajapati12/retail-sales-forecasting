@@ -28,19 +28,18 @@ The raw files are not uploaded to this repo because of size. Download them from 
 
 XGBoost is the best model: its MAE is 25.6% lower than the naive baseline. Seasonal naive has a worse RMSE than naive, so simply copying last year's value is not enough.
 
-![Model comparison](images/model_comparison.png)
-![Forecast for Store 1](images/forecast_store_1.png)
-
+<p align="center"><img src="images/model_comparison.png" width="700" alt="Model comparison"></p>
+<p align="center"><img src="images/forecast_store_1.png" width="700" alt="Forecast for Store 1"></p>
 ## EDA
-![Trend](images/eda_trend.png)
-![Seasonality](images/eda_seasonality.png)
-![Holiday effect](images/eda_holiday.png)
+<p align="center"><img src="images/eda_trend.png" width="700" alt="Trend"></p>
+<p align="center"><img src="images/eda_seasonality.png" width="700" alt="Seasonality"></p>
+<p align="center"><img src="images/eda_holiday.png" width="700" alt="Holiday effect"></p>
 
 ## Streamlit app
 Pick a store in the sidebar and see the actual vs forecast chart with MAE for each model.
 
-![Streamlit app - Store 1](images/streamlit_app.jpeg)
-![Streamlit app - Store 14](images/streamlit_store14.jpeg)
+<p align="center"><img src="images/streamlit_app.jpeg" width="800" alt="Streamlit app - Store 1"></p>
+<p align="center"><img src="images/streamlit_store14.jpeg" width="800" alt="Streamlit app - Store 14"></p>
 ## How to run
 ```powershell
 git clone https://github.com/Muskanprajapati12/retail-sales-forecasting.git
